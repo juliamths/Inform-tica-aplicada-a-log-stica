@@ -5,3 +5,6 @@ Tem como objetivo mostrar os projetos e atividades de informática relacionados 
 
 ## Gráficos em Excel sobre Multimodal
 <img width="1135" height="542" alt="image" src="https://github.com/user-attachments/assets/96ea82c2-fb9f-489d-bb49-9ca95592d381" />
+
+## Gráficos em Excel sobre produtoras independentes registradas no Ancine
+<img width="1095" height="481" alt="image" src="https://github.com/user-attachments/assets/7fd8734e-bbb7-43e9-b173-b03397252534" />
