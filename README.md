@@ -11,3 +11,6 @@ Tem como objetivo mostrar os projetos e atividades de informática relacionados 
 
 ## Gráficos em Power BI sobre empresas de multimodal
 <img width="1322" height="741" alt="image" src="https://github.com/user-attachments/assets/bbfbba78-e891-4913-9cb0-b62325440f8b" />
+
+## Gráficos em Power BI sobre produtoras independentes registradas no Ancine
+<img width="1311" height="736" alt="image" src="https://github.com/user-attachments/assets/4d64e98b-499e-4296-a79b-bf7e90c9a906" />
