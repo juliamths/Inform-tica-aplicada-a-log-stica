@@ -8,3 +8,6 @@ Tem como objetivo mostrar os projetos e atividades de informática relacionados 
 
 ## Gráficos em Excel sobre produtoras independentes registradas no Ancine
 <img width="1095" height="481" alt="image" src="https://github.com/user-attachments/assets/7fd8734e-bbb7-43e9-b173-b03397252534" />
+
+## Gráficos em Power BI sobre empresas de multimodal
+<img width="1322" height="741" alt="image" src="https://github.com/user-attachments/assets/bbfbba78-e891-4913-9cb0-b62325440f8b" />
