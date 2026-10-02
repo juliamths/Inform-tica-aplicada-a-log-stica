@@ -14,7 +14,7 @@ Esta atividade teve como objetivo baixar dados da escolha do aluno e formular ci
 
 ## Gráficos em Power BI sobre empresas de multimodais
 <img width="1322" height="741" alt="image" src="https://github.com/user-attachments/assets/bbfbba78-e891-4913-9cb0-b62325440f8b" />
-Esta atividade teve como objetivo utilizar o mesmo banco de dados da ANTT sobre as empresas de multimodal, utilizando as mesmas perguntas formuladas na atividade anterior para então criar novos gráficos com o programa Power BI. As perguntas seguiram sendo: "Qual o percentual de empresas que aderiram ao decreto?" e "Qual é a cidade do estado de São Paulo com mais CNPJs registrados?".
+Esta atividade teve como objetivo utilizar o mesmo banco de dados da ANTT sobre as empresas de multimodal, utilizando três novas perguntas formuladas pela professora para então criar novos gráficos com o programa Power BI. As perguntas foram: "Quais cidades possuem empresas multimodais?", "Quantas empresas aderiram ao decreto?", "Quantas empresas estão artificadas até 2025?".
 
 ## Gráficos em Power BI sobre produtoras independentes registradas no Ancine
 <img width="1311" height="736" alt="image" src="https://github.com/user-attachments/assets/4d64e98b-499e-4296-a79b-bf7e90c9a906" />
