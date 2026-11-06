@@ -23,3 +23,7 @@ Esta atividade teve como objetivo baixar dados da escolha do aluno e formular ci
 ## Mapa e gráficos em Power BI sobre produtoras independentes registradas no Ancine
 <img width="1123" height="625" alt="image" src="https://github.com/user-attachments/assets/78044a6c-2ba8-41a0-a7f4-b903f3363fa1" />
 Esta atividade teve como objetivo baixar dados da escolha do aluno e produzir uma tabela com imagens em relação a estes dados. A base de dados escolhida foi retirada do Portal de Dados Abertos do Gov.br referente a "Produtoras Independentes Regulares Registradas na Ancine". A tabela faz relação com o mapa e gráficos, dando a opção de uma análise e consulta visual das produtoras registradas no Ancine por UF.
+
+## Gráficos sobre expectativa de vida no Power BI
+<img width="1160" height="741" alt="image" src="https://github.com/user-attachments/assets/f06e8388-1a5f-4ced-8e87-31eb3077fbdb" />
+Esta atividade teve como foco o desenvolvimento de três gráficos que utilizassem informações de uma planilha sobre expectativa de vida em diferentes países. Os gráficos feitos refletem quais entidades participaram da pesquisa, a média de expectativa de vida de todos os locais, e a expectativa de vida durante os anos do Afeganistão.
