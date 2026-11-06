@@ -31,3 +31,7 @@ Esta atividade teve como foco o desenvolvimento de três gráficos que utilizass
 ## Gráficos sobre horas e notas de alunos no Excel
 <img width="1393" height="593" alt="image" src="https://github.com/user-attachments/assets/5b6b2028-5b03-422b-adfe-1a3099e66bb6" />
 Esta atividade teve como objetivo criar um gráfico de dispersão baseado em informações que incluem horas de estudo, horas de sono, presença na aula e notas em prova. O gráfico utilizou especificamente as horas estudadas e notas da prova. Com esse gráfico, foi pedido para responder a pergunta "mais horas de estudo estão associadas a notas maiores?".
+
+## Gráfico de dispersão pelo Google Colab
+<img width="1146" height="611" alt="image" src="https://github.com/user-attachments/assets/149aaa12-1e6a-4da3-bee5-2b3f9545ddcc" />
+Esta atividade teve como objetivo criar um gráfico de dispersão baseado em informações que incluem horas de estudo, horas de sono, presença na aula e notas em prova. O gráfico utilizou especificamente as horas estudadas e notas da prova. Com esse gráfico foi pedido para responder a pergunta se esse e o último gráfico da última atividade são iguais. A resposta: são parecidos, com leves diferenças.
