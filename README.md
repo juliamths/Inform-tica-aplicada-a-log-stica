@@ -27,3 +27,7 @@ Esta atividade teve como objetivo baixar dados da escolha do aluno e produzir um
 ## Gráficos sobre expectativa de vida no Power BI
 <img width="1160" height="741" alt="image" src="https://github.com/user-attachments/assets/f06e8388-1a5f-4ced-8e87-31eb3077fbdb" />
 Esta atividade teve como foco o desenvolvimento de três gráficos que utilizassem informações de uma planilha sobre expectativa de vida em diferentes países. Os gráficos feitos refletem quais entidades participaram da pesquisa, a média de expectativa de vida de todos os locais, e a expectativa de vida durante os anos do Afeganistão.
+
+## Gráficos sobre horas e notas de alunos no Excel
+<img width="1393" height="593" alt="image" src="https://github.com/user-attachments/assets/5b6b2028-5b03-422b-adfe-1a3099e66bb6" />
+Esta atividade teve como objetivo criar um gráfico de dispersão baseado em informações que incluem horas de estudo, horas de sono, presença na aula e notas em prova. O gráfico utilizou especificamente as horas estudadas e notas da prova. Com esse gráfico, foi pedido para responder a pergunta "mais horas de estudo estão associadas a notas maiores?".
