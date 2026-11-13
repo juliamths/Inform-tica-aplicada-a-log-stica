@@ -35,3 +35,7 @@ Esta atividade teve como objetivo criar um gráfico de dispersão baseado em inf
 ## Gráfico de dispersão pelo Google Colab
 <img width="1146" height="611" alt="image" src="https://github.com/user-attachments/assets/149aaa12-1e6a-4da3-bee5-2b3f9545ddcc" />
 Esta atividade teve como objetivo criar um gráfico de dispersão baseado em informações que incluem horas de estudo, horas de sono, presença na aula e notas em prova. O gráfico utilizou especificamente as horas estudadas e notas da prova. Com esse gráfico foi pedido para responder a pergunta se esse e o último gráfico da última atividade são iguais. A resposta: são parecidos, com leves diferenças.
+
+## Gráficos sobre investimentos anunciados por empresas, captados pela Pesquisa de Investimentos Anunciados no Estado de São Paulo (Piesp)
+<img width="1162" height="655" alt="Captura de tela 2026-11-13 200801" src="https://github.com/user-attachments/assets/11516811-b1b4-4f08-96d0-1f99471e9739" />
+Este dashboard foi criado para uma avaliação feita na aula de Informática Aplicada a Logística. Os gráficos foram feitos utilizando uma pesquisa conduzida pela Piesp, os dados demonstrando investimentos anunciados por empresas privadas e públicas no estado de São Paulo. 
