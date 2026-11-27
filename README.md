@@ -32,13 +32,13 @@ Esta atividade teve como foco o desenvolvimento de três gráficos que utilizass
 <img width="1393" height="593" alt="image" src="https://github.com/user-attachments/assets/5b6b2028-5b03-422b-adfe-1a3099e66bb6" />
 Esta atividade teve como objetivo criar um gráfico de dispersão baseado em informações que incluem horas de estudo, horas de sono, presença na aula e notas em prova. O gráfico utilizou especificamente as horas estudadas e notas da prova. Com esse gráfico, foi pedido para responder a pergunta "mais horas de estudo estão associadas a notas maiores?".
 
-## Gráfico de dispersão sobre venda de sorvetes
-<img width="1070" height="557" alt="image" src="https://github.com/user-attachments/assets/a76477c8-2e71-46fb-aeb9-52369d4517be" />
-Esta atividade teve como objetivo fazer um gráfico de dispersão sobre a venda de sorvetes usando os dados de temperatura e faturamento. O banco de dados foi tirado do site Kaggle de nome "Ice-Cream Sales Dataset". O programa usado foi o Google Colab. A fórmula da linha de regressão é y = 0,0457x + (-1,57).
-
 ## Gráfico de dispersão pelo Google Colab
 <img width="1146" height="611" alt="image" src="https://github.com/user-attachments/assets/149aaa12-1e6a-4da3-bee5-2b3f9545ddcc" />
 Esta atividade teve como objetivo criar um gráfico de dispersão baseado em informações que incluem horas de estudo, horas de sono, presença na aula e notas em prova. O gráfico utilizou especificamente as horas estudadas e notas da prova. Com esse gráfico foi pedido para responder a pergunta se esse e o último gráfico da última atividade são iguais. A resposta: são parecidos, com leves diferenças.
+
+## Gráfico de dispersão sobre venda de sorvetes
+<img width="1070" height="557" alt="image" src="https://github.com/user-attachments/assets/a76477c8-2e71-46fb-aeb9-52369d4517be" />
+Esta atividade teve como objetivo fazer um gráfico de dispersão sobre a venda de sorvetes usando os dados de temperatura e faturamento. O banco de dados foi tirado do site Kaggle de nome "Ice-Cream Sales Dataset". O programa usado foi o Google Colab. A fórmula da linha de regressão é y = 0,0457x + (-1,57).
 
 ## Gráficos sobre investimentos anunciados por empresas, captados pela Pesquisa de Investimentos Anunciados no Estado de São Paulo (Piesp)
 <img width="1162" height="655" alt="Captura de tela 2026-11-13 200801" src="https://github.com/user-attachments/assets/11516811-b1b4-4f08-96d0-1f99471e9739" />
