@@ -36,6 +36,10 @@ Esta atividade teve como objetivo criar um gráfico de dispersão baseado em inf
 <img width="1146" height="611" alt="image" src="https://github.com/user-attachments/assets/149aaa12-1e6a-4da3-bee5-2b3f9545ddcc" />
 Esta atividade teve como objetivo criar um gráfico de dispersão baseado em informações que incluem horas de estudo, horas de sono, presença na aula e notas em prova. O gráfico utilizou especificamente as horas estudadas e notas da prova. Com esse gráfico foi pedido para responder a pergunta se esse e o último gráfico da última atividade são iguais. A resposta: são parecidos, com leves diferenças.
 
+## Gráfico de dispersão no Excel
+<img width="920" height="416" alt="image" src="https://github.com/user-attachments/assets/a52f33e5-a54b-4401-b339-1e8752e38478" />
+Esta atividade teve como objetivo fazer um gráfico de dispersão sobre a venda de sorvetes usando os dados de temperatura e faturamento. O banco de dados foi tirado do site Kaggle de nome "Ice-Cream Sales Dataset". O programa usado foi o Excel. A fórmula da linha de regressão é y = 0,0457x + (-1,57).
+
 ## Gráfico de dispersão sobre venda de sorvetes
 <img width="1070" height="557" alt="image" src="https://github.com/user-attachments/assets/a76477c8-2e71-46fb-aeb9-52369d4517be" />
 Esta atividade teve como objetivo fazer um gráfico de dispersão sobre a venda de sorvetes usando os dados de temperatura e faturamento. O banco de dados foi tirado do site Kaggle de nome "Ice-Cream Sales Dataset". O programa usado foi o Google Colab. A fórmula da linha de regressão é y = 0,0457x + (-1,57).
