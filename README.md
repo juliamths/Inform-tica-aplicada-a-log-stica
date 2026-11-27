@@ -24,10 +24,6 @@ Esta atividade teve como objetivo baixar dados da escolha do aluno e formular ci
 <img width="1123" height="625" alt="image" src="https://github.com/user-attachments/assets/78044a6c-2ba8-41a0-a7f4-b903f3363fa1" />
 Esta atividade teve como objetivo baixar dados da escolha do aluno e produzir uma tabela com imagens em relação a estes dados. A base de dados escolhida foi retirada do Portal de Dados Abertos do Gov.br referente a "Produtoras Independentes Regulares Registradas na Ancine". A tabela faz relação com o mapa e gráficos, dando a opção de uma análise e consulta visual das produtoras registradas no Ancine por UF.
 
-## Gráfico de dispersão sobre venda de sorvetes
-<img width="1070" height="557" alt="image" src="https://github.com/user-attachments/assets/a76477c8-2e71-46fb-aeb9-52369d4517be" />
-Esta atividade teve como objetivo fazer um gráfico de dispersão sobre a venda de sorvetes usando os dados de temperatura e faturamento. O banco de dados foi tirado do site Kaggle de nome "Ice-Cream Sales Dataset". O programa usado foi o Google Colab.
-
 ## Gráficos sobre expectativa de vida no Power BI
 <img width="1160" height="741" alt="image" src="https://github.com/user-attachments/assets/f06e8388-1a5f-4ced-8e87-31eb3077fbdb" />
 Esta atividade teve como foco o desenvolvimento de três gráficos que utilizassem informações de uma planilha sobre expectativa de vida em diferentes países. Os gráficos feitos refletem quais entidades participaram da pesquisa, a média de expectativa de vida de todos os locais, e a expectativa de vida durante os anos do Afeganistão.
@@ -35,6 +31,10 @@ Esta atividade teve como foco o desenvolvimento de três gráficos que utilizass
 ## Gráficos sobre horas e notas de alunos no Excel
 <img width="1393" height="593" alt="image" src="https://github.com/user-attachments/assets/5b6b2028-5b03-422b-adfe-1a3099e66bb6" />
 Esta atividade teve como objetivo criar um gráfico de dispersão baseado em informações que incluem horas de estudo, horas de sono, presença na aula e notas em prova. O gráfico utilizou especificamente as horas estudadas e notas da prova. Com esse gráfico, foi pedido para responder a pergunta "mais horas de estudo estão associadas a notas maiores?".
+
+## Gráfico de dispersão sobre venda de sorvetes
+<img width="1070" height="557" alt="image" src="https://github.com/user-attachments/assets/a76477c8-2e71-46fb-aeb9-52369d4517be" />
+Esta atividade teve como objetivo fazer um gráfico de dispersão sobre a venda de sorvetes usando os dados de temperatura e faturamento. O banco de dados foi tirado do site Kaggle de nome "Ice-Cream Sales Dataset". O programa usado foi o Google Colab.
 
 ## Gráfico de dispersão pelo Google Colab
 <img width="1146" height="611" alt="image" src="https://github.com/user-attachments/assets/149aaa12-1e6a-4da3-bee5-2b3f9545ddcc" />
