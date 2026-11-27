@@ -25,7 +25,7 @@ Esta atividade teve como objetivo baixar dados da escolha do aluno e formular ci
 Esta atividade teve como objetivo baixar dados da escolha do aluno e produzir uma tabela com imagens em relação a estes dados. A base de dados escolhida foi retirada do Portal de Dados Abertos do Gov.br referente a "Produtoras Independentes Regulares Registradas na Ancine". A tabela faz relação com o mapa e gráficos, dando a opção de uma análise e consulta visual das produtoras registradas no Ancine por UF.
 
 ## Gráfico de dispersão sobre venda de sorvetes
-<img width="1081" height="598" alt="image" src="https://github.com/user-attachments/assets/9c98994f-b9dc-495a-a4df-9de6769deb53" />
+<img width="1070" height="557" alt="image" src="https://github.com/user-attachments/assets/a76477c8-2e71-46fb-aeb9-52369d4517be" />
 Esta atividade teve como objetivo fazer um gráfico de dispersão sobre a venda de sorvetes usando os dados de temperatura e faturamento. O banco de dados foi tirado do site Kaggle de nome "Ice-Cream Sales Dataset". O programa usado foi o Google Colab.
 
 ## Gráficos sobre expectativa de vida no Power BI
